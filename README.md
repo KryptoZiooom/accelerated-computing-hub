@@ -22,7 +22,8 @@ The following interactive tutorials are available and can be used on [NVIDIA Bre
 
 ## License
 
-All written materials (user guides, documentation, presentations) are subject to [Creative Commons CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
+All written materials (user guides, documentation, presentations) are subject to [Creative Commons CC BY-NC-SA
+ 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 All codes (notebook code, coding examples) are subject to [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 
